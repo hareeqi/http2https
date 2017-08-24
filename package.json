@@ -1,0 +1,19 @@
+{
+  "name": "http2https",
+  "version": "1.0.0",
+  "description": "redirect all http requests to https",
+  "main": "index.js",
+  "bin": {
+    "http2https": "./bin/http2https"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hareeqi/http2https.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hareeqi/http2https/issues"
+  },
+  "homepage": "https://github.com/hareeqi/http2https#readme"
+}
